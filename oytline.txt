@@ -1,0 +1,26 @@
+-categories [with count]
+
+-properties:
+	-name
+	-location
+	-type
+	-price
+	-area
+	-beds_number
+	-baths_number
+	-garages_number
+        -image
+
+-agents:
+   -name
+   -title
+   -image
+
+
+-about
+	-image
+	-mission
+	-vision
+
+-contact
+-home
