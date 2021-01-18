@@ -1,2 +1,2 @@
 # mando_estate
-a basic hotel reservation website using with Django / Pyhton&amp;Sql class - first-semester assessment 
+a basic flat/house reservation via real estate agency website using with Django / Pyhton&amp;Sql class - first-semester assessment 
